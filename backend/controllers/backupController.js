@@ -1,5 +1,4 @@
 import db from '../config/db.js';
-import bcrypt from 'bcrypt';
 import fs from 'fs';
 import path from 'path';
 import { exec } from 'child_process';
