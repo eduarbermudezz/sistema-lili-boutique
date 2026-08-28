@@ -1,0 +1,44 @@
+{
+  "name": "sistema-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.1.0",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.1",
+    "axios": "^1.13.2",
+    "bootstrap": "^5.3.8",
+    "decimal.js": "^10.6.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
+    "jspdf-autotable": "^5.0.7",
+    "jsrsasign": "^11.1.3",
+    "qz-tray": "^2.2.6",
+    "react": "^19.2.0",
+    "react-barcode": "^1.6.1",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.2.0",
+    "react-number-format": "^5.4.5",
+    "react-router-dom": "^7.11.0",
+    "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/react": "^19.2.5",
+    "@vitejs/plugin-react": "^5.1.1",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "sass": "^1.97.1",
+    "vite": "^7.2.4"
+  }
+}
